@@ -7,7 +7,7 @@
   ##
     
   ### Backend developer 🐌🐌🐌
-  느리지만 꾸준히 가는중
+  느리지만 꾸준히 앞으로 가는중
 
   ### Skills
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
