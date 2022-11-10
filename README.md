@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://velog.io/@miracle-21" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=plastic&logo=velog&logoColor=white"/></a>
+<a href="mailto:miraculum95@gmail.com"><img src="https://img.shields.io/badge/miraculum95@gmail.com-EA4335?style=plastic&logo=gmail&logoColor=white"/></a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miracle-21&show_icons=true&theme=buefy)
