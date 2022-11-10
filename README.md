@@ -1,4 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header)
 <div align="center">
+
+  
   <a href="https://velog.io/@miracle-21" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=plastic&logo=velog&logoColor=white"/></a>
   <a href="mailto:miraculum95@gmail.com"><img src="https://img.shields.io/badge/miraculum95@gmail.com-EA4335?style=plastic&logo=gmail&logoColor=white&link=mailto:miraculum95@gmail.com"/>
     
