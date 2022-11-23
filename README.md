@@ -16,12 +16,21 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
 
   ### Experiences
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white">
+  
   <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat&logo=ec2&logoColor=white"></a> 
   <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=flat&logo=awslambda&logoColor=white"></a> 
   <img src="https://img.shields.io/badge/AWS SQS-FF4F8B?style=flat&logo=amazonsqs&logoColor=white"></br>
   <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white"></a></br>
   <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=Amazon DynamoDB&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
+  
+
+  
+
 
 
   ### Tools
