@@ -1,15 +1,19 @@
 <div align="center">
 
-  
+  <a href="https://minha0220.tistory.com" target="_blank"><img src="https://img.shields.io/badge/tistory-ff5949?style=plastic&logo=tistory&logoColor=white"/></a>
   <a href="https://velog.io/@miracle-21" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=plastic&logo=velog&logoColor=white"/></a>
-  <a href="mailto:miraculum95@gmail.com"><img src="https://img.shields.io/badge/miraculum95@gmail.com-EA4335?style=plastic&logo=gmail&logoColor=white&link=mailto:miraculum95@gmail.com"/>
+  <a href="mailto:miraculum95@gmail.com"><img src="https://img.shields.io/badge/miraculum95@gmail.com-4790ff?style=plastic&logo=gmail&logoColor=white&link=mailto:miraculum95@gmail.com"/>
     
   ##
     
-  ### Backend developer 🐌🐌🐌
+  ### Cloud Engineer & Backend developer 🐌🐌🐌
   느리지만 앞으로 가는중
 
   ### Skills
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"></a> 
+  <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white"></a>
+  </br>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
   <br>
@@ -19,11 +23,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white">
-  
-  <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat&logo=ec2&logoColor=white"></a> 
-  <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=flat&logo=awslambda&logoColor=white"></a> 
-  <img src="https://img.shields.io/badge/AWS SQS-FF4F8B?style=flat&logo=amazonsqs&logoColor=white"></br>
-  <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white"></a></br>
   <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=Amazon DynamoDB&logoColor=white"></a>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"></a>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
@@ -34,6 +33,7 @@
 
 
   ### Tools
+  <img src="https://img.shields.io/badge/whatap-FF6C37?style=flat&logo=amazoncloudwatch&logoColor=white"></a>
   <img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white"></a>
   <img src="https://img.shields.io/badge/discord-5865F2?style=flat&logo=discord&logoColor=white"> </a>
   <img src="https://img.shields.io/badge/slack-4A154B?style=flat&logo=slack&logoColor=white"> </a>
